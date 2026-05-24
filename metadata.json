@@ -1,0 +1,6 @@
+{
+  "name": "Midwife Records",
+  "description": "A secure client-side application for midwives to log patient details, calculate gestational age, track clinical prenatal visits, and manage their caseload.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
